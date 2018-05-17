@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/catalog/_partials/miniatures/product-relate.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Add to cart</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/catalog/_partials/miniatures/product-relate.tpl:102</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/categoriestab.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="1a8c0228da8fb16885881e6c97b96f08">
+        <source>No products at this time.</source>
+        <target>No products at this time.</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/categoriestab.tpl:93</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/producttab.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="31d26a6487e08357bd771619e894b0c6">
+        <source>New Arrivals</source>
+        <target>New Arrivals</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/producttab.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="b4c2b550635fe54fd29f2b64dfaca55d">
+        <source>Special</source>
+        <target>Special</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/producttab.tpl:21</note>
+      </trans-unit>
+      <trans-unit id="22c6735b370cecf293e32dca6c678185">
+        <source>Best Seller</source>
+        <target>Best Seller</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/producttab.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="cf8156f1f57a8603cd6b3a28c9c2c61b">
+        <source>Featured Products</source>
+        <target>Featured Products</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/producttab.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/manufacture.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="3426bf3cca12b1f6550fd8bd36171e2f">
+        <source>view products</source>
+        <target>view products</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novpagemanage/views/source/manufacture.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovThree.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="af1b98adf7f686b84cd0b443e022b7a0">
+        <source>Categories</source>
+        <target>Categories</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovThree.tpl:104</note>
+      </trans-unit>
+      <trans-unit id="3f2d67839ed4a76a3fec4d04667b1a69">
+        <source>Free call us</source>
+        <target>Free call us</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovThree.tpl:71</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="037eeebf494cfb39f94eef0dd5655852">
+        <source>My Wishlists</source>
+        <target>My Wishlists</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl:57</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="641254d77e7a473aa5910574f3f9453c">
+        <source>Wishlist</source>
+        <target>Wishlist</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:204</note>
+      </trans-unit>
+      <trans-unit id="b61541208db7fa7dba42c85224405911">
+        <source>Menu</source>
+        <target>Menu</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:155</note>
+      </trans-unit>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:167</note>
+      </trans-unit>
+      <trans-unit id="08bd40c7543007ad06e4fce31618f6ec">
+        <source>Account</source>
+        <target>Account</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:205</note>
+      </trans-unit>
+      <trans-unit id="0557fa923dcee4d0f86b1409f5c2167f">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:165</note>
+      </trans-unit>
+      <trans-unit id="386c339d37e737a436499d423a77df0c">
+        <source>Currency</source>
+        <target>Currency</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:172</note>
+      </trans-unit>
+      <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <source>Language</source>
+        <target>Language</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:173</note>
+      </trans-unit>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:201</note>
+      </trans-unit>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/layouts/layout-both-columns.tpl:202</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novblockwishlist/novblockwishlist_button.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="2d96bb66d8541a89620d3c158ceef42b">
+        <source>Add to wishlist</source>
+        <target>Add to wishlist</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novblockwishlist/novblockwishlist_button.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="33010ef6524c87c41380e2cc5e212f73">
+        <source>Add to %s</source>
+        <target>Add to %s</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novblockwishlist/novblockwishlist_button.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="15b94c64c4d5a4f7172e5347a36b94fd">
+        <source>Add to my wishlist</source>
+        <target>Add to my wishlist</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novblockwishlist/novblockwishlist_button.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="6a5373df703ab2827a4ba7facdfcf779">
+        <source>Add to Wishlist</source>
+        <target>Add to Wishlist</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/novblockwishlist/novblockwishlist_button.tpl:35</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="5c109ac48b3cfcce1b09a084b7139ce1">
+        <source>All Blog News</source>
+        <target>All Blog News</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:76</note>
+      </trans-unit>
+      <trans-unit id="32b502f33a535f75dcbf63f6753c631e">
+        <source>Tags:</source>
+        <target>Tags:</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:52</note>
+      </trans-unit>
+      <trans-unit id="03de68d09e4d74581fd593c97bf6194d">
+        <source>Posted by </source>
+        <target>Posted by </target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="f386bccd2fe9a73a61bee9b9b414a61c">
+        <source> Comments</source>
+        <target> Comments</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="0adcb8b4159a10f3ac443fc8117998cf">
+        <source>Submit comment</source>
+        <target>Submit comment</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:95</note>
+      </trans-unit>
+      <trans-unit id="99025d39d988e705905374bb9d567bf0">
+        <source>Your Name *</source>
+        <target>Your Name *</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:103</note>
+      </trans-unit>
+      <trans-unit id="4a41204957e5d55560a83e562b0cfcc7">
+        <source>Your E-mail *</source>
+        <target>Your E-mail *</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:106</note>
+      </trans-unit>
+      <trans-unit id="76f62afe72f88cdeb5b4a0291501da15">
+        <source>Your Website</source>
+        <target>Your Website</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:109</note>
+      </trans-unit>
+      <trans-unit id="c5be23b0dfae0e0cc50b76aa21d977ed">
+        <source>Your Message</source>
+        <target>Your Message</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:114</note>
+      </trans-unit>
+      <trans-unit id="1bd7adca92fb00ed025c21df18b41475">
+        <source>Please input capcha..</source>
+        <target>Please input capcha..</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:120</note>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d">
+        <source>Send Message</source>
+        <target>Send Message</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/posts.tpl:124</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/postcategory.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="98574c0a37f23fba0cb1f608c8a8f547">
+        <source>No Post in Category</source>
+        <target>No Post in Category</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/postcategory.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="6cd5964b76612e3d3a9b8493b6d1ea1b">
+        <source>No Post in Blog</source>
+        <target>No Post in Blog</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/postcategory.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/search-not-found.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="c6d3b2e35e3cc80cca139f6698d94e48">
+        <source>Sorry, but nothing matched your search terms.</source>
+        <target>Sorry, but nothing matched your search terms.</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/search-not-found.tpl:5</note>
+      </trans-unit>
+      <trans-unit id="2bd4ce53155ef2501456e9c93fbaa679">
+        <source>Please try again with some different keywords.</source>
+        <target>Please try again with some different keywords.</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/search-not-found.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="a60852f204ed8028c1c58808b746d115">
+        <source>Ok</source>
+        <target>Ok</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/search-not-found.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="7b19b37e7fc3dfe3c3e1ad5b84c7f565">
+        <source>Home page</source>
+        <target>Home page</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/search-not-found.tpl:23</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/comment_loop.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="25d8df6e580905091a0d5ef5b9e05bf0">
+        <source>Reply</source>
+        <target>Reply</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/comment_loop.tpl:14</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/tagresult.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="3e0c1ff6070d2ad64af75e2f48170739">
+        <source>No Post in This Tag</source>
+        <target>No Post in This Tag</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/tagresult.tpl:6</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/category_loop.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="ed4832a84ee072b00a6740f657183598">
+        <source>Views</source>
+        <target>Views</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/category_loop.tpl:97</note>
+      </trans-unit>
+      <trans-unit id="d89dc5dc1aede197cfebb0528fe39838">
+        <source>view more</source>
+        <target>view more</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/category_loop.tpl:113</note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Read more</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/category_loop.tpl:117</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/archivecategory.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="468c8383d26ecb84b5f805435f401a8b">
+        <source>No Post in Archive</source>
+        <target>No Post in Archive</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/smartblog/views/templates/front/archivecategory.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_facetedsearch/ps_facetedsearch.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="c32516babc5b6c47eb8ce1bfc223253c">
+        <source>Catalog</source>
+        <target>Catalog</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_facetedsearch/ps_facetedsearch.tpl:3</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/errors/not-found.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="7e74146e0ff2e289abfc8bec1d2b2a18">
+        <source>Sorry for the inconvenience.</source>
+        <target>Sorry for the inconvenience.</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/errors/not-found.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="84d9573d77435d23507ba3809cfc6efc">
+        <source>Search again what you are looking for.</source>
+        <target>Search again what you are looking for.</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/errors/not-found.tpl:29</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/errors/404.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="38563dee8ec9b2588c22dd3d4686c5aa">
+        <source>Back to homepage</source>
+        <target>Back to homepage</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/errors/404.tpl:48</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovOne.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovOne.tpl:86</note>
+      </trans-unit>
+      <trans-unit id="6955f244e533203e719bd721ca6b8ee9">
+        <source>Hotline</source>
+        <target>Hotline</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovOne.tpl:89</note>
+      </trans-unit>
+      <trans-unit id="39bc84e641b03c2aedbf446af824f415">
+        <source>Shop By Categories</source>
+        <target>Shop By Categories</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovOne.tpl:139</note>
+      </trans-unit>
+      <trans-unit id="146ffe2fd9fa5bec3b63b52543793ec7">
+        <source>Show more</source>
+        <target>Show more</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovOne.tpl:141</note>
+      </trans-unit>
+      <trans-unit id="e78c2164499775efbe9894cb75463fb9">
+        <source>Close more</source>
+        <target>Close more</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/_partials/layout/header/displayHeaderNovOne.tpl:141</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/catalog/product.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="c96327c22acd018a4643d484eabbce4c">
+        <source>Hand-picked arrivals from the best designer</source>
+        <target>Hand-picked arrivals from the best designer</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/templates/catalog/product.tpl:313</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

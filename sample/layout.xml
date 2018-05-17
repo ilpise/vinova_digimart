@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<layouts>
+	<layout>
+		<title>Header</title>
+		<name>novthemeconfig_header</name>
+		<option value="default" title="Default"/>
+		<option value="header1" title="Header Style 1"/>
+	</layout>
+	<!-- <layout>
+		<title>Footer</title>
+		<name>novthemeconfig_footer</name>
+		<option value="default" title="Default"/>
+		<option value="footer1" title="Footer 1"/>
+	</layout> -->
+<!-- 	<layout>
+	  	<title>Touch Products</title>
+	  	<name>novthemeconfig_touch</name>
+	  	<option value="default" title="Bootstrap Carousel"/>
+	  	<option value="touch" title="Owl Carousel"/>
+	</layout>	 -->
+	<layout>
+		<title>Product info</title>
+		<name>novthemeconfig_productinfo</name>
+		<option value="default" title="Product Tab Desc"/>
+		<option value="producttabdesc" title="Product Tab Vertical Desc"/>
+		<option value="productaccordiondesc" title="Product Accordion Desc"/>
+	</layout>
+	<layout>
+		<title>Product Item</title>
+		<name>novthemeconfig_productitem</name>
+		<option value="default" title="Default"/>
+		<option value="style1" title="Style 1"/>
+		<option value="style2" title="Style 2"/>
+	</layout>
+	<layout>
+	  <title>Column Product Of Category</title>
+	  <name>novthemeconfig_itemsperline</name>
+	  <option value="default" title="Default"/>
+	  <option value="2" title="2"/>
+	  <option value="3" title="3"/>
+	  <option value="4" title="4"/>
+	</layout>
+</layouts>

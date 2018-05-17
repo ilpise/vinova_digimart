@@ -1,0 +1,59 @@
+// BREADCRUMB
+.breadcrumb {
+  background: url(../img/bg-breadcrumb.jpg) no-repeat scroll top center;
+  color: $breadcrumb-text-color;
+  font-size: 1.2rem;
+  padding: 6.9rem 0 6.9rem;
+  margin-bottom: 6rem;
+  @include border-radius(0);
+  background-size: cover;
+  .breadcrumb-title-page {
+    font-size: 2.6rem;
+    font-family: $font-family-primary;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: $breadcrumb-link-color;
+    text-align: center;
+    margin-bottom: 1.1rem;
+  }
+  ol {
+    text-align: center;
+    @include rtl-padding-left(0);
+    font-family: $font-family-default;
+    li {
+      padding: 0 11px;
+      position: relative;
+      display: inline-block;
+      color: $breadcrumb-link-color;
+      a {
+        font-size: 1.2rem;
+        color: #666;
+        &:hover {
+          color: $theme-color-default;
+        }
+      }
+      &:before {
+        content: "";
+        position: absolute;
+        @include rtl-left(-3px);
+        top: 50%;
+        margin-top: -2px;
+        font-size: 1.6rem;
+        width: 5px;
+        height: 5px;
+        background: #666;
+        @include rotate(45deg);
+        line-height: 1.6rem;
+      }
+      &:first-child {
+        @include rtl-padding-left(0);
+         &:before {
+          display: none;
+         }
+      }
+      &:last-child {
+        @include rtl-padding-right(0);
+      }
+    }
+  }
+}

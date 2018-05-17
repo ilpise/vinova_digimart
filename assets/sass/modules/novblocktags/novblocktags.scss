@@ -1,0 +1,27 @@
+/* Block tags */
+@import "compass";
+@import "../../theme_variables";
+@import "../../mixins/mixin";
+div.tags_block {
+	.title_block {
+		margin-bottom: 15px !important;
+	}
+	.block_content {
+		font-size: 1.2rem;
+		overflow: hidden;
+		a {
+			display: inline-block;
+			padding: 6px 10px;
+			color: #666;
+			border: 1px solid #cadae2;
+			@include rtl-float-left();
+			@include rtl-margin-right(8px);
+			margin-top: 10px;
+			&:hover {
+				background: $theme-color-default;
+				border-color: $theme-color-default;
+				color: #fff;
+			}
+		}
+	}
+}

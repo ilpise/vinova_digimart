@@ -1,0 +1,115 @@
+/* GENERALE */
+
+@media (min-width: 1200px){
+    .container {
+        width: 100%;
+        padding: 0 30px;
+    }
+}
+
+/****************************************/
+
+#search_widget input[name="s"] { 
+    width: 100% !important;
+}
+
+#search_widget input[name="s"]:focus {
+    width: 100% !important;
+}
+.verticalmenu,
+.toggle-nav {
+    cursor: pointer !important;
+}
+
+ /* HEADER */
+
+#header,
+.header-bottom,
+.nov-footer-center,
+.header-bottom-inner,
+.header-mobile {
+    background-color: #000 !important;
+}
+#header.header-1 #block_myaccount_infos .toggle-group-account {
+    background: #000 !important;
+}
+
+#social_block ul li {
+    background-color: #8cc63f !important;
+}
+
+/* PRODUCT MINIATURE */
+
+.product-miniature {
+    border-color: #8cc63f !important;
+    padding: 15px;
+}
+.product-groups {
+    display: block !important;
+}
+.product-buttons .add-to-cart {
+    background: #284700 !important;
+}
+.product-buttons .add-to-cart:hover {
+    background: #8cc63f !important;
+}
+.product-price-and-shipping {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+/* TITOLO */
+
+.breadcrumb {
+    background: #8cc63f url("http://www.i-reuse.it/themes/vinova_digimart/assets/img/bulb.jpg") no-repeat fixed center !important;
+    background-size: cover;
+    padding: 100px 0 !important;
+}
+.breadcrumb ol {
+    display: none !important;
+}
+/* PAGINA PRODOTTO */
+
+.product-last-items {
+    color: orange !important;
+}
+.product-unavailable {
+    color: red !important;
+}
+
+#js-product-list .product_list.list .product-miniature .info-stock {
+    color: inherit !important;
+}
+
+/* CONTATTI */
+
+.group-span-filestyle {
+    background-color: #284700 !important;
+}
+.group-span-filestyle .btn.btn-default {
+    padding: 5px 15px !important;
+}
+
+.contact-form .form-fields .form-control {
+    text-transform: capitalize !important;
+}
+
+.contact-form .form-fields .btn .buttonText {
+    text-transform: capitalize !important;
+}
+
+.contact-rich .block .icon {
+    margin-top: 0 !important;
+}
+
+/* NEWS */
+
+.post-page .pagination li .page-active {
+    background-color: #284700 !important;
+}
+
+/* PRODOTTI */
+
+.product_list .info-stock-1 {
+    display: none;
+}

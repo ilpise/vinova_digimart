@@ -1,0 +1,223 @@
+$rtl-left : left;
+$rtl-right : right;
+//------- Variables
+
+@import "variables";
+$image-path:                   "images/";
+$font-family-path:             "../font/";
+$image-theme-base-path:        "../img/";
+$image-theme-path:             "../img/icon/";
+$image-base-path:              "../../../img/";
+$image-skin-path:              "../../img/icon/";
+$image-module-path:            "../../../img/icon/";
+$module-path:                  "../../../modules/";
+$screen-sm-max : 980px;
+$screen-xs-max : 767px;
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-md-max: 1199px;
+$screen-lg: 1200px;
+//---------Color
+
+$black:					#000;
+$brown:					#b39770;
+$browndark: 			#e4dcd2;
+$lightbrown:			#f6eee3;
+$blue:                  #049cdb;
+$bluedark:              #0064cd;
+$yellow:                #ffc40d;
+$orange:                #f89406;
+$pink:                  #c3325f;
+$purple:                #7a43b6;
+$white :			 	#fff;
+$nocolor:				transparent !default;
+
+$theme-color-default:   #105caa !default;//Home 1 && 7 && 8
+//$theme-color-default:   #45ab67 !default;// Home 5 && 6
+$theme-color-primary:   #ff8d31 !default;
+$theme-color-custom: 	#f16f6c !default;
+
+$text-color: 			#666666;
+
+//------- FONTS
+$font-family-default:   'Roboto', sans-serif;
+$font-family-primary:   'Oswald', sans-serif;
+$font-icon: 			'FontAwesome';
+
+//-------- BORDERS
+$base-border-color:		            #e6e6e6 !default;
+$main_border:						#e6e6e6;
+$dark-border-color:					#e6e6e6;
+$light-border-color:				#fff;
+$homepage-footer-border:            #e6e6e6;
+
+//--------- BACKGROUNDS
+$body-bg:							#fff;
+$base-box-bg:                       #fbfbfb;
+$table-background:                  $base-box-bg;
+$dark-background:                   #333;
+$light-background:                  #fff;
+$homepage-footer-bg:                #f2f2f2;
+
+//--------- COLORS
+$base-body-color:                   $text-color;
+$base-text-color:                   $text-color;
+$base-title-color:					#202020;
+$light-text-color:                  #fff;
+$link-color:						#585858;
+$link-hover-color:                  $link-hover-color;
+$description-color:					$text-color;
+	
+//--------- Breadcrumb ---------
+	$breadcrumb-text-color:       #222;
+	$breadcrumb-font-size:        12rem;
+	$breadcrumb-link-color:       #222;
+	$breadcrumb-bg:               transparent;
+	$breadcrumb-link-hover-color:  $breadcrumb-text-color;
+
+//--------- Base Heading
+	$base-heading-color:			#fff;
+	$base-heading-fontsize:			$font-size-base * 1.2;
+	$base-heading-bg:			    transparent;
+	$base-headding-padding:         0 0 15px;
+	$base-headding-font:         	$font-family-default;
+	$base-header-border:            $base-border-color;
+
+//--------- Indents
+$base-box-padding:                  14px 18px 13px;
+$base-box-indent:                  	0 0 30px 0;
+
+//---------- Product Elements
+$product-name-color:                #202020;
+$product-name-hover-color:          $theme-color-default;
+$price-color:						$theme-color-default;
+$product-price-color:				$theme-color-default;
+$product-new-price-color:		    $theme-color-default;
+$product-old-price-color:			$base-text-color;
+$product-reduced-price:				#f00;
+$product-info-margin: 				15px;
+
+//---------- Buttons
+$button-text-color:					$light-text-color;
+
+	//-------------- Grid/List vars
+	$GL-text-color:								$base-text-color;
+	$GL-title-color:							$base-text-color;
+	$GL-icon-color:								$base-text-color;
+	$GL-icon-color-hover:						$base-text-color;
+
+	//-------------- Pagination vars
+	$pagination-prevnext-color:					#777676;
+	$pagination-bgcolor:	               		$base-box-bg;
+	$pagination-hover-bg:						#f6f6f6;
+
+//---------- Product Info
+
+
+
+//------------- BLOCK --------------
+	$block-module-margin:             0 0 15px;
+	$block-module-heading-border:     none;
+	$block-module-heading-bg:         $theme-color-default;
+	$block-module-heading-padding:    22px 0;
+	$block-module-heading-span-padding:    8px 38px;
+	$block-module-heading-margin:     0;
+	$block-module-heading-font:       $font-family-default;
+	$block-module-heading-color:      #272727;
+	$block-module-heading-fontsize:   36px;
+	$block-module-border-color:       $base-border-color;
+	$block-module-content-bg:         #fff;
+	$block-module-content-padding:    15px;
+
+//------------- BOX ---------------------
+	$box-bg:                    #fff !default;
+	$box-inner-border:          #ddd !default;
+	$box-border-radius:         3px !default;
+	$box-footer-bg:             #f5f5f5 !default;
+
+	$box-default-text:          $gray-dark !default;
+	$box-default-border:        #ddd !default;
+	$box-default-heading-bg:    #f5f5f5 !default;
+ /*
+  * LAYOUTS VAIRABLES
+  */
+//  Topbar
+	$topbar-bg				: #f9f9f9;
+	$topbar-color			: #666666;
+	$topbar-border-color	: transparent;
+	$topbar-font-size  		: 13px;
+	$topbar-font-family     : $font-family-default;
+	$topbar-link-color      : #666666;
+	$topbar-link-hover-color: $link-hover-color;
+
+//  Header
+    $header-bg:                #fff;
+	$header-color:             #666;
+    $header-font-size:         1.4rem;
+    $header-link-color:        #666;
+    $header-link-hover-color:  $link-hover-color;
+
+//  Megamenu
+	$mainmenu-bg:                   transparent;
+	$mainmenu-link-color:           #666;
+	$mainmenu-link-hover-color:     $theme-color-default;
+	$mainmenu-font-family:			$font-family-primary;
+	$mainmenu-font-size:			1.2rem;
+
+	$mainsubmenu-bg: 				$white;
+	$mainsubmenu-color:             #666;
+	$mainsubmenu-link-color:        #666;
+	$mainsubmenu-link-hover-color:  #fff;
+	$mainsubmenu-font-family:		$font-family-default;
+	$mainsubmenu-font-size:			1.3rem;
+	$mainsubmenu-title-color:       $theme-color-default;
+	$mainsubmenu-title-font-size:   15px;
+
+//  Vertical Menu
+	$vertical-menu-bg:                   #fff;
+	$vertical-menu-link-color:           $text-color;
+	$vertical-menu-link-hover-color:     $theme-color-primary;
+	$vertical-menu-font-weight:          400;
+	$vertical-menu-font-family:			 $font-family-default;
+	$vertical-menu-font-size:			 1.1rem;
+
+	$vertical-submenu-bg: 				 #fff;
+	$vertical-submenu-color:             #6a6a6a;
+	$vertical-submenu-link-color:        #6a6a6a;
+	$vertical-submenu-link-hover-color:  $link-hover-color;
+	$vertical-submenu-font-family:		 $font-family-default;
+	$vertical-submenu-font-size:		 12px;
+	$vertical-submenu-title-color:       #202020;
+	$vertical-submenu-title-font-size:   14px;
+
+
+//slidebar
+	$slidebar-bg:                    none;
+	$slidebar-color:                 inherit;
+	$slidebar-link-color:            $link-color;
+	$slidebar-link-hover-color:      $link-hover-color;
+	$siderbar-headding-color:        $base-heading-color;
+
+//Bottom
+	
+
+// footer position
+	$footer-bg:                  #fff;
+	$footer-text-color:          $text-color;
+	$footer-font-size:			 1.2rem;
+	$footer-link-color:          $text-color;
+	$footer-link-hover-color:    $theme-color-default;
+	$footer-padding:             0;
+	$footer-margin:              0;
+
+	$footer-heading-font-size:   1.4rem;
+	$footer-heading-color:       #232323;
+
+// Copyright
+$copyright-bg              : #fff;
+$copyright-text-color      : $text-color;
+$copyright-link-color      : $theme-color-default;
+$copyright-link-color-hover: $theme-color-primary;
+$copyright-padding         : 28px 0;
+$copyright-margin          : 0;

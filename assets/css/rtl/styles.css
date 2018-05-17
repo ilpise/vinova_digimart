@@ -1,0 +1,22 @@
+/* Custom style for RTL */
+
+/*# sourceMappingURL=../../css/rtl/styles.map */
+
+#search_widget input[name="s"] { 
+    width: 100% !important;
+}
+
+#search_widget input[name="s"]:focus {
+    width: 100% !important;
+}
+.verticalmenu,
+.toggle-nav {
+    cursor: pointer !important;
+}
+
+ /* HEADER */
+
+#header,
+.header-bottom {
+    background-color: #000 !important;
+}

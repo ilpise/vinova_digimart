@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customersignin/ps_customersignin.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="c87aacf5673fada1108c9f809d354311">
+        <source>Sign out</source>
+        <target>Sign out</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customersignin/ps_customersignin.tpl:6</note>
+      </trans-unit>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>My Account</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customersignin/ps_customersignin.tpl:10</note>
+      </trans-unit>
+      <trans-unit id="b6d4223e60986fa4c9af77ee5f7149c5">
+        <source>Sign in</source>
+        <target>Sign in</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customersignin/ps_customersignin.tpl:13</note>
+      </trans-unit>
+      <trans-unit id="089a4481d6029b62758f16d31cd34264">
+        <source>Register Account</source>
+        <target>Register Account</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customersignin/ps_customersignin.tpl:17</note>
+      </trans-unit>
+      <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
+        <source>Checkout</source>
+        <target>Checkout</target>
+        <note>Context:
+File: /home/vinovath/demo.vinovathemes.com/prestashop_digimart/themes/vinova_digimart/modules/ps_customersignin/ps_customersignin.tpl:20</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
