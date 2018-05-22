@@ -9,7 +9,7 @@
 
 /****************************************/
 
-#search_widget input[name="s"] { 
+#search_widget input[name="s"] {
     width: 100% !important;
 }
 
@@ -112,4 +112,10 @@
 
 .product_list .info-stock-1 {
     display: none;
+}
+
+/* Bottoni pagination-nas.tpl */
+.button-not-current {
+  border: 1px solid #c4c4c4;
+  background: #c4c4c4;
 }
