@@ -1,5 +1,5 @@
 /******************
- * Vinova Themes  Framework for Prestashop 1.7.x 
+ * Vinova Themes  Framework for Prestashop 1.7.x
  * @package    Nova - PrestaShop 1.7 Theme For Fashion Templates
  * @version    1.0
  * @author    http://vinovathemes.com/
@@ -13,7 +13,7 @@
  */
 
 //  document.getElementsByClassName("verticalmenu-content").onclick = function (event) {
-//      alert("ciao"); 
+//      alert("ciao");
 //      document.getElementsByClassName("verticalmenu-content").display = "block";
 //  }
 
@@ -50,5 +50,4 @@ $(document).ready(function(){
     // Seleziono la "list view"
 
     $(".list-type").click();
-    
 })

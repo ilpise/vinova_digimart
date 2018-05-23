@@ -48,10 +48,10 @@
         {/block}
         *}
 
-        <h1>--- product-list.tpl ---</h1>
+        <!-- <h1>--- product-list.tpl ---</h1> -->
 
         <!-- {$listing.pagination|@print_r} -->
-        <pre>{$listing.pagination|@print_r}</pre>
+        <!-- <pre>{$listing|@print_r}</pre> -->
         <!-- {count($listing.products)} -->
         <div id="categories-product">
           {block name='product_list'}
