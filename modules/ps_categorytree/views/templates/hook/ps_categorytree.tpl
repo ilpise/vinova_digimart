@@ -30,9 +30,10 @@
         {foreach from=$nodes item=node}
           <li data-depth="{$depth}">
             {if $depth===0}
+              {assign var=nodeurl value="/"|explode:$node.link}
               <a href="{$node.link}">{$node.name}</a>
               {if $node.children}
-                <div class="navbar-toggler collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar{$node.id}">
+                <div id="{$nodeurl.3}" class="navbar-toggler collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar{$node.id}">
                   <i class="material-icons add">add</i>
                   <i class="material-icons remove">remove</i>
                 </div>

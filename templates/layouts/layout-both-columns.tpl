@@ -42,7 +42,7 @@
     {block name='product_activation'}
       {include file='catalog/_partials/product-activation.tpl'}
     {/block}
-    
+
     {block name='header'}
       {if $novconfig.novthemeconfig_header_style && $novconfig.novthemeconfig_header_style == 'displayHeaderNovOne'}
         {include file="_partials/layout/header/displayHeaderNovOne.tpl"}
@@ -124,7 +124,7 @@
                 </div>
               </div>
             </div>
-            {/block}  
+            {/block}
       </div>
       {if $novconfig.novthemeconfig_footer_style == 'displayFooterNovOne'}
         {include file="_partials/layout/footer/displayFooterNovOne.tpl"}
@@ -137,7 +137,7 @@
       {else}
         {include file="_partials/footer.tpl"}
       {/if}
-      
+
 
     </main>
 
@@ -204,7 +204,7 @@
         <div class="stickymenu-item"><a href="{$link->getModuleLink('novblockwishlist', 'mywishlist', array(), true)|escape:'html':'UTF-8'}"><i class="zmdi zmdi-favorite-outline"></i><span>{l s='Wishlist'}</span></a></div>
         <div class="stickymenu-item"><a href="#" class="nov-toggle-page" data-target="#mobile-pageaccount"><i class="zmdi zmdi-account-o"></i><span>{l s='Account'}</span></a></div>
       </div>
-      
+
     {/block}
 
     {if isset($novconfig.social_twitter) && $novconfig.social_twitter}
@@ -225,7 +225,7 @@
 
           return t;
         }(document, "script", "twitter-wjs"));</script>
-        
+
         {/literal}
     {/if}
 
