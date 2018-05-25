@@ -5,7 +5,7 @@
  *}
 <div id="js-product-list-bottom">
 	{block name='pagination'}
-	    {include file='_partials/pagination-nas.tpl' pagination=$listing.pagination}
+	    {include file='_partials/pagination-nas.tpl' pagination=$listing.pagination actpage=$actpage}
 	{/block}
 
 </div>

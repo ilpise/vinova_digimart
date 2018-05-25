@@ -32,11 +32,20 @@
   </div>
   <div class="col col-xs-12">
     {block name='pagination_page_list'}
+    {if $actpage eq 0}
+      {assign var=actpage value=$actpage+1}
+    {/if}
     <ul class="page-list">
       {foreach from=$pagination.pages item="page"}
-          <button class="btn button-not-current pisebtn">
-            {$page.page}
-          </button>
+          {if $actpage eq $page.page}
+            <button class="btn btn-secondary pisebtn">
+              {$page.page}
+            </button>
+          {else}
+            <button class="btn button-not-current pisebtn">
+              {$page.page}
+            </button>
+          {/if}
       {/foreach}
     </ul>
     {/block}

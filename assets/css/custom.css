@@ -116,6 +116,18 @@
 
 /* Bottoni pagination-nas.tpl */
 .button-not-current {
+  font-family: 'Oswald',sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding: 10px 16px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  /*background: #61ad00;*/
+  border-color: #61ad00;
+  color: #fff;
   border: 1px solid #c4c4c4;
   background: #c4c4c4;
 }
