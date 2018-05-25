@@ -23,14 +23,7 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
 <nav class="pagination row justify-content-around">
-  <div class="col col-xs-12">
-    {block name='pagination_summary'}
-    <span class='showing'>
-    {l s='Showing %from%-%to% of %total% item(s)' d='Shop.Theme.Catalog' sprintf=['%from%' => $pagination.items_shown_from ,'%to%' => $pagination.items_shown_to, '%total%' => $pagination.total_items]}
-    </span>
-    {/block}
-  </div>
-  <div class="col col-xs-12">
+
     {block name='pagination_page_list'}
     {if $actpage eq 0}
       {assign var=actpage value=$actpage+1}
@@ -38,16 +31,16 @@
     <ul class="page-list">
       {foreach from=$pagination.pages item="page"}
           {if $actpage eq $page.page}
-            <button class="btn btn-secondary pisebtn">
+            <button class="btn button-not-current pisebtn">
               {$page.page}
             </button>
           {else}
-            <button class="btn button-not-current pisebtn">
+            <button class="btn btn-secondary pisebtn">
               {$page.page}
             </button>
           {/if}
       {/foreach}
     </ul>
     {/block}
-  </div>
+  
 </nav>
