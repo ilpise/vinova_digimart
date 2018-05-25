@@ -23,7 +23,7 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
 <div id="js-product-list">
-  <div class="products product_list grid row" data-default-view="grid">
+  <div class="products product_list grid row" data-default-view="list">
   	{foreach from=$listing.products item=product}
       {block name='product_miniature'}
         {include file='catalog/_partials/miniatures/product.tpl' product=$product class_item="col-md-4 col-xs-6"}
