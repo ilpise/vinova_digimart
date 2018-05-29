@@ -131,3 +131,10 @@
   border: 1px solid #c4c4c4;
   background: #c4c4c4;
 }
+.page-list{
+  padding-top: 10px;
+}
+.btn-min-size{
+  min-width: 50px;
+  max-width: 50px;
+}

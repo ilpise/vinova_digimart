@@ -22,25 +22,34 @@
  * @license   http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
  * International Registered Trademark & Property of PrestaShop SA
  *}
-<nav class="pagination row justify-content-around">
+<!-- <nav class="pagination row justify-content-around"> -->
 
     {block name='pagination_page_list'}
     {if $actpage eq 0}
       {assign var=actpage value=$actpage+1}
     {/if}
-    <ul class="page-list">
-      {foreach from=$pagination.pages item="page"}
+
+
+    {foreach from=$pagination.pages item="page"}
+      <!-- Start a new line -->
+      {if $page.page eq 1 || $nl}
+        <div class="page-list">
+        {$nl = false}
+      {/if}
           {if $actpage eq $page.page}
-            <button class="btn button-not-current pisebtn">
-              {$page.page}
-            </button>
+              <button class="btn button-not-current btn-min-size pisebtn">
+                {$page.page}
+              </button>
           {else}
-            <button class="btn btn-secondary pisebtn">
-              {$page.page}
-            </button>
+              <button class="btn btn-secondary btn-min-size pisebtn">
+                {$page.page}
+              </button>
           {/if}
-      {/foreach}
-    </ul>
+      {if not ($page.page mod 10)}
+        </div>
+        {$nl = true}
+      {/if}
+     {/foreach}
     {/block}
-  
-</nav>
+
+<!-- </nav> -->
