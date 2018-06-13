@@ -27,7 +27,7 @@
 {block name='right_column'}{/block}
 
 {block name='content_wrapper'}
-	  <div id="content-wrapper" class="left-column col-xs-12 col-sm-8 col-md-9 flex-xs-first{if $novconfig.novthemeconfig_width_layout && $novconfig.novthemeconfig_width_layout > 1200} w-80{/if}">
+	  <div id="content-wrapper" class="left-column col-xs-12 col-sm-8 col-md-9{if $novconfig.novthemeconfig_width_layout && $novconfig.novthemeconfig_width_layout > 1200} w-80{/if}">
 	    {block name='content'}
 	      <p>Hello world! This is HTML5 Boilerplate.</p>
 	    {/block}

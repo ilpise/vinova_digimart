@@ -48,11 +48,6 @@
         {/block}
         *}
 
-        <!-- <h1>--- product-list.tpl ---</h1> -->
-
-        <!-- {$listing.pagination|@print_r} -->
-        <!-- <pre>{$listing|@print_r}</pre> -->
-        <!-- {count($listing.products)} -->
         <div id="categories-product">
           {block name='product_list'}
             {include file='catalog/_partials/products.tpl' listing=$listing}
