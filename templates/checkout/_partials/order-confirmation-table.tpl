@@ -35,7 +35,7 @@
         <div class="order-line row">
           <div class="col-sm-2 col-xs-3">
             <span class="image">
-              <img src="{$product.cover.medium.url}" />
+              <img src="http://www.i-reuse.it/img/p/{$product.image->id_image|str_split|implode:'/'}/{$product.image->id_image}-medium_default.jpg" />
             </span>
           </div>
           <div class="col-sm-4 col-xs-9 details">
