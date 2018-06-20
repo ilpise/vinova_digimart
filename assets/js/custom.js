@@ -51,33 +51,36 @@ $(document).ready(function(){
 
     // $(".list-type").click();
 
-    // var pathname = window.location.pathname;
-    // console.log(pathname.replace('/',''));
-    // var category = pathname.replace('/','');
     //
-    // console.log(category);
-    // Espando la categoria selezionata
-    // console.log($('#72-cartucce-e-toner'));
-    // console.log($( "ul.category-sub-menu > li > div" ).first().attr('id'));
-    // $("#"+category).click();
-    // // var test = $("#"+category)
-    // // Se non applico un timeout la prima categoria rimane espansa
-    // if($( "ul.category-sub-menu > li > div" ).first().attr('id') != category){
-    //   // $( "ul.category-sub-menu > li > div" ).first().click();
-    //   $( "ul.category-sub-menu > li > div" ).attr("aria-expanded", false);
-    //   // console.log($( "ul.category-sub-menu > li > div" ).attr('data-target'));
-    //   var first = $("ul.category-sub-menu > li > div").attr('data-target');
-    //   // console.log($(''+first+'').attr('class'));
-    //   $(''+first+'').on("shown.bs.collapse", function(){
-    //    //trigger content change
-    //    //this code will be triggered when the collapse transition is completed
-    //    //that is your myCollapsible element will have 'in' in your class
-    //     console.log('event fired');
-    //     // $( "ul.category-sub-menu > li > div" ).first().click();
-    //     $(''+first+'').removeClass('in');
-    //   });
-    // }
+    // Menu categorie a sinistra funzionalità per espandere solo la categoria selezionata
+    //
 
+    // Visto che dobbiamo fare riferimento a pathname verifichiamo se siamo sun path relativo ad una category
+
+    var pathname = window.location.pathname;
+    var category = pathname.replace('/','');
+    var isnumb = category.split('-')[0];
+    //
+    // console.log('category');
+    // console.log(category);
+    // console.log(isnumb);
+
+    // se il primo elemento del nome del path è numerico allora siamo su una categoria
+    if ($.isNumeric(isnumb)){
+      // Espando la categoria selezionata forzando un click
+      $("#"+category+".navbar-toggler.collapse-icons").click();
+      // use of shown.bs on toggle elements
+      if($( "ul.category-sub-menu > li > div" ).first().attr('id') != category){
+        $( "ul.category-sub-menu > li > div" ).attr("aria-expanded", false);
+        var first = $("ul.category-sub-menu > li > div").attr('data-target');
+        $(''+first+'').on("shown.bs.collapse", function(){
+          //trigger content change
+          //this code will be triggered when the collapse transition is completed
+          //that is your myCollapsible element will have 'in' in your class
+          $(''+first+'').removeClass('in');
+        });
+      }
+    }
     // setTimeout(function() {
     //   if($( "ul.category-sub-menu > li > div" ).first().attr('id') != category){
     //     $( "ul.category-sub-menu > li > div" ).first().click();
